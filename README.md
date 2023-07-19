@@ -4,13 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This app basically look in two concepts analog clock and digital clock. There are different dependency for both the clock and i have used seperate dependency for both of them.
 
-A few resources to get you started if this is your first Flutter project:
+Used dependencies are
+  analog_clock: ^0.1.1
+  slide_digital_clock: ^1.0.3
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+And this project may help you to learn concept of list tile and decorating it.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://github.com/RohitMundhra123/flutter_clock/assets/91062387/42b32543-d31a-4c3b-9836-1a7d81172f27
+
